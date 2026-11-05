@@ -1,0 +1,6 @@
+url: https://github.com/HelloQingTao/dsh-plugin-keeper
+name: HelloQingTao/dsh-plugin-keeper
+category: market
+description:
+  en: 'Plugin ops console for DeepSeek Harness: source-grouped inventory of the installed plugins, one-click update checks, bulk update/enable/disable/uninstall, zip export and import for moving to another machine, direct installs from GitHub, and search by name, description or version.'
+  zh: '插件运维台：按来源分组盘点已装插件、一键检查更新、批量更新/启停/卸载、可移植的导出导入包、从 GitHub 直装，并可按包名、简述或版本搜索。'
